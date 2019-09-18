@@ -2,7 +2,7 @@
   "name": "tony-helloworld",
   "version": "0.0.1",
   "description": "Node.js sample app for OpenShift 3",
-  "main": "server.js",
+  "main": "main.js",
   "engine": {
     "node": "*",
     "npm": "*"
