@@ -1,10 +1,11 @@
 {
   "name": "tony-helloworld",
-  "version": "0.0.1",
-  "description": "Node.js sample app for OpenShift 3",
+  "version": "1.0.0",
+  "description": "test version",
   "main": "main.js",
-  "engine": {
-    "node": "*",
-    "npm": "*"
- 	}
- }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tony ngo",
+  "license": "ISC"
+}
